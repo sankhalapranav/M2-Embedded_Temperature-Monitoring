@@ -22,3 +22,7 @@
 
 
 ## Activity 4
+
+| **Temperature 29 C** | **Temperature 20 C** |
+| --- | --- |
+| ![29C](https://user-images.githubusercontent.com/94311905/144218786-505e2c1b-0ff9-44e1-8a71-185b94cea624.png) | ![20C](https://user-images.githubusercontent.com/94311905/144218798-0b454bbd-e3ef-470a-a188-7dd4ffd53a08.png) |
