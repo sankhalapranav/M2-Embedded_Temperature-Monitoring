@@ -1,0 +1,5 @@
+3_Implementation/project_main.c:59:20: style: The scope of the variable 'temp_val' can be reduced. [variableScope]
+ volatile uint16_t temp_val;
+                   ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
