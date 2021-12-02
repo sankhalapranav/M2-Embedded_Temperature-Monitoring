@@ -2,9 +2,9 @@
 
 #### CI and Code Quality
 
-| **Build** | **Cppcheck** | **Codacy** |
+| **CI** | **Cppcheck** | **Codacy** |
 | --- | --- | --- |
-| |  | |
+|[![CI](https://github.com/sankhalapranav/M2-Embedded_Temperature-Monitoring/actions/workflows/main.yml/badge.svg)](https://github.com/sankhalapranav/M2-Embedded_Temperature-Monitoring/actions/workflows/main.yml) |  | |
 
 # Activity 1
 
