@@ -5,7 +5,7 @@
 
 | **Build** | **Cppcheck** | **Codacy** |
 | --- | --- | --- |
-| |  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a32701ed0804b13b68e6efd6159ac6a)](https://www.codacy.com/gh/sankhalapranav/M2-Embedded_Temperature-Monitoring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sankhalapranav/M2-Embedded_Temperature-Monitoring&amp;utm_campaign=Badge_Grade)|
+| | [![cppcheck-action-test](https://github.com/sankhalapranav/M2-Embedded_Temperature-Monitoring/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sankhalapranav/M2-Embedded_Temperature-Monitoring/actions/workflows/cppcheck.yml)  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a32701ed0804b13b68e6efd6159ac6a)](https://www.codacy.com/gh/sankhalapranav/M2-Embedded_Temperature-Monitoring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sankhalapranav/M2-Embedded_Temperature-Monitoring&amp;utm_campaign=Badge_Grade)|
 
 # Activity 1
 
